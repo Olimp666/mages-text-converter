@@ -1,4 +1,4 @@
-A command-line tool to convert text to hex and vice versa based on the sheet.
+A command-line tool that converts text to hex and vice versa based on the sheet.
 ## Usage
 `Converter -i *path to text to convert* -o *output file* -s *path to sheet file* -m *mode*`  
 `-m` has two options: t and m. t converts text to hex, h converts hex to text.  
